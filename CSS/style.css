@@ -1,0 +1,32 @@
+#box{
+    background-color:#DBFCFF;
+}
+.heading{
+    color:#320E3B;
+}
+button{
+    background-color: #7F96FF;
+    
+}
+
+/* fontWeight */
+
+#w1{
+    font-weight:bold;
+}
+#w2{
+    font-weight:lighter;
+}
+#w3{
+    font-weight:normal;
+}
+
+
+/* fontFamily */
+
+#p_one{
+    font-family: cursive;
+}
+#p_two{
+    font-family: Arial, Helvetica, sans-serif; /*fall back machanisiam*/
+}

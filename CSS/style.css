@@ -30,3 +30,17 @@ button{
 #p_two{
     font-family: Arial, Helvetica, sans-serif; /*fall back machanisiam*/
 }
+
+/* line-height */
+
+#l_one{
+    line-height: 25px;
+}
+
+/* text-tranformation */
+#t_transfer{
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: none;
+}

@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin: 20px;
+    background-color: skyblue;
+    display: inline-block;
+}
+#box2{
+    /* display: none; */ 
+    /* visibility: hidden; */
+}
